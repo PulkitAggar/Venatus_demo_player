@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641548505728",
+    "project_id": "venatusapp",
+    "storage_bucket": "venatusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641548505728:android:87bff4cd306f605cc48c65",
+        "android_client_info": {
+          "package_name": "com.example.venatus_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641548505728-gmvc4g7tmj1rja48gbjpn6ehuhaibtti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.venatus_project",
+            "certificate_hash": "75cdcb5d671311796250d47382240a80da22ad1b"
+          }
+        },
+        {
+          "client_id": "641548505728-vqbm8stg0hsfqa7oqkihklfuh6os8m10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTf6XqdZw2PeuCLXrPwsXl4GMlaya_hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641548505728-vqbm8stg0hsfqa7oqkihklfuh6os8m10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
